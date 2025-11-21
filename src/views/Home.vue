@@ -21,7 +21,7 @@
           >
           <ul class="reList ul-nostyle clearfix">
             <li class="floatL">
-              <a href="https://www.github.com/ericx2x" target="_blank"
+              <a href="https://www.github.com/ericjlima" target="_blank"
                 ><img src="../assets/github.png" alt="Git"
               /></a>
             </li>
@@ -32,7 +32,7 @@
             </li>
             <li class="floatL">
               <a
-                href="https://www.linkedin.com/in/eric-lima-210b8812"
+                href="https://www.linkedin.com/in/ericjlima"
                 target="_blank"
                 ><img src="../assets/linkedin.png" alt="linkdin"
               /></a>
